@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jx2Aoh/CHNOWi8FQTYY6EzNUKVE0+QFKQvu+QdD9kxnNhLnA3Xk+VA7GLPJx6PrjdNUqsCMVuP170UH/2KDQqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rsalv\\source\\repos\\BuscaArquivoJson\\BuscaArquivoJson\\BuscaArquivoJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rsalv\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
