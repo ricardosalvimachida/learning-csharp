@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i3kJbY8ODlrWFblOK9hZKZXWzfdg7TE99EIF82KN5kQE7ko5T3E3XPbX0AgSbIctVgQ+fnZqAxCtmYImWbpJiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rsalv\\source\\repos\\learning-csharp\\WebSocket\\WebSocket\\WebSocket\\WebSocket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rsalv\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\bin\Debug\net6.0\WebSocket-Client.exe
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\bin\Debug\net6.0\WebSocket-Client.deps.json
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\bin\Debug\net6.0\WebSocket-Client.runtimeconfig.json
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\bin\Debug\net6.0\WebSocket-Client.dll
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\bin\Debug\net6.0\WebSocket-Client.pdb
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\bin\Debug\net6.0\websocket-sharp-core.dll
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net6.0\WebSocket-Client.csproj.AssemblyReference.cache
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net6.0\WebSocket-Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net6.0\WebSocket-Client.AssemblyInfoInputs.cache
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net6.0\WebSocket-Client.AssemblyInfo.cs
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net6.0\WebSocket-Client.csproj.CoreCompileInputs.cache
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net6.0\WebSocket-Client.csproj.CopyComplete
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net6.0\WebSocket-Client.dll
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net6.0\refint\WebSocket-Client.dll
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net6.0\WebSocket-Client.pdb
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net6.0\WebSocket-Client.genruntimeconfig.cache
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net6.0\ref\WebSocket-Client.dll

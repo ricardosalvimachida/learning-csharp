@@ -1,0 +1,17 @@
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.csproj.AssemblyReference.cache
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.AssemblyInfoInputs.cache
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.AssemblyInfo.cs
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.csproj.CoreCompileInputs.cache
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\bin\Debug\net6.0\WebSocket.exe
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\bin\Debug\net6.0\WebSocket.deps.json
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\bin\Debug\net6.0\WebSocket.runtimeconfig.json
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\bin\Debug\net6.0\WebSocket.dll
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\bin\Debug\net6.0\WebSocket.pdb
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\bin\Debug\net6.0\websocket-sharp-core.dll
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.csproj.CopyComplete
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.dll
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\refint\WebSocket.dll
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.pdb
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\WebSocket.genruntimeconfig.cache
+C:\Users\rsalv\source\repos\learning-csharp\WebSocket\WebSocket\WebSocket\obj\Debug\net6.0\ref\WebSocket.dll
