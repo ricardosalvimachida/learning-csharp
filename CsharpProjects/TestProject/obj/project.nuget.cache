@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+uVXm4uvgGOkDpG1ulLJTNl8PTqHtdbz+Hq/T0//z3HIJjX1wZQntNtyz/wSKvn/Tp5t2wc6R0AgzZB/WOURNg==",
+  "dgSpecHash": "ipsz0qHTCHyl4ogu1ISUYm1i4X/TohuIRSo5Ibkm6EXAaF0qN5CqeZwmEBcBXFuv2LPLJVJKlw1w+iTzPhZh/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rsalv\\source\\repos\\CsharpProjects\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Users\\rsalv\\source\\repos\\learning-csharp\\CsharpProjects\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

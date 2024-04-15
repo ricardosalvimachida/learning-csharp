@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsalv\\source\\repos\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\rsalv\\source\\repos\\learning-csharp\\CsharpProjects\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\rsalv\\source\\repos\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\rsalv\\source\\repos\\learning-csharp\\CsharpProjects\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\rsalv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsalv\\source\\repos\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\rsalv\\source\\repos\\learning-csharp\\CsharpProjects\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
